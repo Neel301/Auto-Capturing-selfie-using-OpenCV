@@ -6,5 +6,8 @@ Python
 OpenCV
 
 ## Data Set:
-<b>Harcasscade data set</b> find out here (https://github.com/opencv/opencv/tree/master/data/haarcascades)
+<b>Harcascades data set</b> find out here (https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
+## Things which you need:
+<b>python</b> (https://www.python.org/downloads/) 
+<b>openCv</b> (https://pypi.org/project/opencv-python/)
