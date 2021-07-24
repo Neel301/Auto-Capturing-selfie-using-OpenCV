@@ -6,5 +6,5 @@ Python
 OpenCV
 
 ##Data Set:
-<b>Harcasscade data set</b> used (https://github.com/opencv/opencv/tree/master/data/haarcascades)
+<b>Harcasscade data set</b> find out here (https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
